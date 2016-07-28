@@ -1,14 +1,14 @@
-layout_spectrum: 0.17379474942572415
-typography_spectrum: 0.3921353246551007
+layout_spectrum: 0.7015707914251834
+typography_spectrum: 0.3483463453594595
 color:
-  brandStrength: 0.977929882472381
-  lightness: 0.015065495856106281
-  saturation: 0.8085096892900765
-  rhythmicContrast: 0.29876506328582764
+  brandStrength: 0.8154202695004642
+  lightness: 0.01797782350331545
+  saturation: 0.3109573859255761
+  rhythmicContrast: 0.31811733869835734
   brandColors:
-    - '#73603D'
-    - '#BF8A49'
-    - '#F2CA80'
-    - '#5E5A59'
-    - '#0D0D0D'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
 name: sad hatchets
